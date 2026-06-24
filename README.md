@@ -6,7 +6,7 @@ I build backend systems — REST APIs, real-time features, third-party integrati
 
 Open to remote backend, full-stack, and junior DevOps roles.
 
-> 🌐 **[View my portfolio](https://portfolio-alpha-flax-55.vercel.app/)**
+> 🌐 **[View my portfolio](https://halby.vercel.app/)**
 
 ---
 
