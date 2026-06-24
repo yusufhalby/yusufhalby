@@ -28,7 +28,7 @@ Open to remote backend, full-stack, and junior DevOps roles.
 
 | Repo | What it does | Stack |
 |---|---|---|
-| [yaoguai-api](https://github.com/yusufhalby/yaoguai-api) | Backend for an AI-focused community platform. Discord OAuth2, JWT, RBAC, Zod validation, role sync. | TypeScript · Express v5 · MongoDB · Discord.js |
+| [yaoguai-api](https://github.com/yusufhalby/yaoguai-api) | Backend for an cyber security-focused community platform. Discord OAuth2, JWT, RBAC, Zod validation, role sync. | TypeScript · Express v5 · MongoDB · Discord.js |
 | [PA-API](https://github.com/yusufhalby/PA-API) | Precision agriculture IoT system — sensor ingestion, disease detection, actuator control. Graduation project (Excellent). | Node.js · MongoDB · Multer · GitHub Actions |
 | [PA-Frontend](https://github.com/yusufhalby/PA-Frontend) | Dashboard for the PA system — live sensor charts, Mapbox field maps, AI disease detection UI, motor controls. | Next.js · React · Tailwind · Chart.js · Mapbox |
 | [3rka-API](https://github.com/yusufhalby/3rka-API) | Rebuilt a PHP project as a clean Node.js REST API. JWT auth, Sequelize ORM, MVC architecture. | Node.js · MySQL · Sequelize · JWT |
@@ -38,8 +38,9 @@ Open to remote backend, full-stack, and junior DevOps roles.
 
 ## Production work
 
-- **Dalili** — Full backend for a Luxor business directory platform + Facebook Messenger chatbot *(private codebase)*
+- **Dalili** — Full backend for a Luxor business directory platform + Facebook Messenger chatbot [http://www.messenger.com/t/532191613303130] *(private codebase)*
 - **[luxorrehabcenter.com](https://www.luxorrehabcenter.com)** — Production website, hosting, and domain management
+- **[egyptiangerman-egy.com](https://www.egyptiangerman-egy.com)** — Production website, hosting, and domain management
 
 ---
 
